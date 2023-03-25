@@ -16,6 +16,10 @@ When app starts, you can see city name, current temperature, minimum and maximum
 <p align="center">
 
 <img src="https://user-images.githubusercontent.com/110492501/227720583-e81d6822-9deb-43b3-b6e7-28e75c55133b.jpg">
+  
+  # AutoMobi
+
+<img src="https://user-images.githubusercontent.com/110492501/227722779-9f13b60b-41e1-4094-a8bc-52732123eb61.jpg">
 
 </p>
 
