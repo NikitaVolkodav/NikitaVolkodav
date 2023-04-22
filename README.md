@@ -10,7 +10,7 @@
 Overall, the Currency Converter Application is a comprehensive iOS app that provides offline currency conversion, flexible exchange rate selection, easy currency search, convenient currency sharing, and robust error handling using various iOS development tools and techniques.
 - In addition to the technical components mentioned earlier, the Currency Converter Application also supports both horizontal and vertical orientations, providing a seamless user experience in both orientations.
 
-
+![MyCollages](https://user-images.githubusercontent.com/110492501/233805209-6ac08bf5-be9b-4824-a081-4e994b476d07.jpg)
 
 # [VolkodavWeather](https://github.com/NikitaVolkodav/VolkodavWeather) 
 
