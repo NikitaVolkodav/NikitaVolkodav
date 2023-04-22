@@ -8,6 +8,7 @@
 - Currency Sharing: The app allows users to share currency information with others using various sharing options, such as sharing through messenger apps or other communication channels. This enables users to easily share currency rates or conversion results with friends, family, or colleagues.
 - API Request and Error Handling: The app utilizes new knowledge in API request handling by implementing URLComponents for building API URLs, and includes error handling for bad status codes, bad URLs, bad server responses, and no data errors. This ensures that the app can handle different scenarios and provide appropriate feedback to the user in case of any errors.
 Overall, the Currency Converter Application is a comprehensive iOS app that provides offline currency conversion, flexible exchange rate selection, easy currency search, convenient currency sharing, and robust error handling using various iOS development tools and techniques.
+- In addition to the technical components mentioned earlier, the Currency Converter Application also supports both horizontal and vertical orientations, providing a seamless user experience in both orientations.
 
 
 
