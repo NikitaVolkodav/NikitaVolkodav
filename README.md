@@ -1,6 +1,6 @@
 <a href="mailto:nikita15.201252@gmail.comm"><img src="https://img.shields.io/badge/Email-Nikita-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nikitavolkodav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nikita%20Volkodav-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
- # CurrencyConverter
+ # [CurrencyConverter](https://github.com/NikitaVolkodav/CurrencyConvert) 
 
 - Offline Currency Conversion: The app is designed to work without internet connectivity, thanks to the use of UserDefaults. This means that users can perform currency conversions even when they are offline, making it convenient for travelers or users in areas with limited internet access.
 - UISegmentedControl for Exchange Rate Selection: The app features a UISegmentedControl that allows users to switch between different exchange rates for buying and selling currencies. This gives users flexibility in choosing the exchange rate that best suits their needs.
