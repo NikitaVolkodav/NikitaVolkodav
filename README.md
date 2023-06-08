@@ -24,6 +24,11 @@ Customized Search Experience
 Enhanced Efficiency
 Tailored Content Control
 
+<img width="182" alt="1-removebg-preview" src="https://github.com/NikitaVolkodav/NikitaVolkodav/assets/110492501/889cf53e-85c7-4374-bbaa-50e5a3348ad1">
+<img width="182" alt="2-removebg-preview" src="https://github.com/NikitaVolkodav/NikitaVolkodav/assets/110492501/94f3ebe6-a908-44ec-a72b-ccc7307c43ec">
+<img width="182" alt="3-removebg-preview" src="https://github.com/NikitaVolkodav/NikitaVolkodav/assets/110492501/a4b67ed0-142e-43b6-b1ea-9a7bdeba2464">
+<img width="182" alt="4-removebg-preview" src="https://github.com/NikitaVolkodav/NikitaVolkodav/assets/110492501/fe056162-3ede-4dc9-b501-b0a1859cb750">
+<img width="182" alt="5-removebg-preview" src="https://github.com/NikitaVolkodav/NikitaVolkodav/assets/110492501/bf5603e1-2f94-4fcc-8ddb-df46d29db2c3">
 
  # [CurrencyConverter](https://github.com/NikitaVolkodav/CurrencyConvert) 
 
