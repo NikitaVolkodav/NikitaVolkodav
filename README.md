@@ -1,5 +1,10 @@
 <a href="mailto:nikita15.201252@gmail.comm"><img src="https://img.shields.io/badge/Email-Nikita-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nikitavolkodav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nikita%20Volkodav-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
+# Soon my first app in the AppStore
+
+I realized that now it is not enough to have only pet projects. I started creating my iOS App and will be adding it to the AppStore.
+
+
 
  # [WebFilter](https://github.com/NikitaVolkodav/WebFilter) 
 
