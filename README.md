@@ -6,6 +6,10 @@ MyCar is a comprehensive iOS application designed to simplify expense tracking f
 
 Navigate through an intuitive interface that facilitates easy expense management. Keep tabs on your spending with a dedicated statistics screen, providing you with a clear overview of your financial patterns related to your car. MyCar marks your debut on the App Store, showcasing your commitment to delivering a user-friendly and efficient solution for managing automobile expenses.
 
+![imgonline-com-ua-Collage-F6Mdeb6kQRWG](https://github.com/NikitaVolkodav/NikitaVolkodav/assets/110492501/213f2176-4c83-4c60-b093-15a50b3ced47)
+
+
+
 
 
  # [WebFilter](https://github.com/NikitaVolkodav/WebFilter) 
