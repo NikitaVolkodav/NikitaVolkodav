@@ -1,8 +1,10 @@
 <a href="mailto:nikita15.201252@gmail.comm"><img src="https://img.shields.io/badge/Email-Nikita-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nikitavolkodav/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nikita%20Volkodav-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-# Soon my first app in the AppStore
+# Soon my first app in the AppStore MyCar
 
-I realized that now it is not enough to have only pet projects. I started creating my iOS App and will be adding it to the AppStore.
+MyCar is a comprehensive iOS application designed to simplify expense tracking for your vehicle. With a focus on user convenience, this app allows you to effortlessly record expenditures related to parking, fuel, repairs, car wash, and other miscellaneous expenses. Whether you're adding new costs or removing outdated entries, MyCar offers a seamless experience.
+
+Navigate through an intuitive interface that facilitates easy expense management. Keep tabs on your spending with a dedicated statistics screen, providing you with a clear overview of your financial patterns related to your car. MyCar marks your debut on the App Store, showcasing your commitment to delivering a user-friendly and efficient solution for managing automobile expenses.
 
 
 
